@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+# I'm Solohiddin 👋
+
+Welcome to my GitHub profile! Check out my work:
+
+![My GIF](https://media.giphy.com/media/XYZ123ABC/giphy.gif)
+
+## About Me
+I'm a passionate developer working on cool projects!
+
 <!--
 **solohiddin1/solohiddin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
