@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! Check out my work:
 
-![My GIF]([https://media.giphy.com/media/XYZ123ABC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGJ2dWQzcHkzYTR4eDUwMjF0bWIzbXZ1aXd2Y3lkaGs0cjRneWU4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IPWXYMP4t2ODvzwOYk/giphy.gif))
+![My GIF]((https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eGJ2dWQzcHkzYTR4eDUwMjF0bWIzbXZ1aXd2Y3lkaGs0cjRneWU4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IPWXYMP4t2ODvzwOYk/giphy.gif))
 
 ## About Me
 I'm a passionate developer working on cool projects!
